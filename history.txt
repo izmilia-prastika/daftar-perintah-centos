@@ -1,0 +1,863 @@
+    1  python --version
+    2  python3,6 --version
+    3  python3.6 --version
+    4  python3.7 --version
+    5  python3.7 -m venv environments/gman37
+    6  python3.7 -m venv
+    7  ls /
+    8  wget https://www.python.org/ftp/python/3.7.3.tgz
+    9  wget https://www.python.org/ftp/python/3.7.3/Python-3.7.3.tgz
+   10  ls
+   11  tar xzf Python-3.7.3.tgz /
+   12  tar xzf Python-3.7.3.tgz
+   13  ls
+   14  mv Python-3.7.3 /
+   15  ls /
+   16  cd /Python-3.7.3/
+   17  ./configure --enable-optimizations
+   18  make altinstall
+   19  python3.7 -V
+   20  python3.7 -v
+   21  python3.7 -V
+   22  python 3.7 --version
+   23  python3.7 --version
+   24  make altinstall
+   25  python3.7 --version
+   26  python3.7 -V
+   27  python3.7 -v
+   28  python 3.7 --version
+   29  python --version
+   30  python3 --version
+   31  cd /
+   32  pythonn3.7 --version
+   33  python3.7 --version
+   34  python3.7 -m venv environments/gman37
+   35  yum install python3.7.3
+   36  yum install python3.7
+   37  cd ~
+   38  cd -
+   39  cd /home/
+   40  ls
+   41  cd centos_server_2/
+   42  ls
+   43  unzip Python-3.7.3.tgz
+   44  yum install gunzip
+   45  gunzip -c Python-3.7.3.tgz | tar xvf -
+   46  cd Python-3.7.3/
+   47  ./configure --enable-optimizations
+   48  make altinstall
+   49  python3.7 --version
+   50  python3.7 -v
+   51  python3.7 -V
+   52  python --version
+   53  py --version
+   54  py -3
+   55  yum install gunzip --ignore-exclude
+   56  yum install gunzip -y
+   57  yum repolist
+   58  yum clean all
+   59  yum install gunzip -y
+   60  yum clean metadata
+   61  yum install gunzip -y
+   62  rpm -qa | grep -i gunzip
+   63  rpm -qa | grep -i python3.7
+   64  yum search python3.7
+   65  yum search python3
+   66  yum search python37
+   67  yum search python36
+   68  yum install python36
+   69  yum search python3-3.
+   70  yum search gunzip
+   71  yum search bunzip
+   72  yum search python3-3.python3.7
+   73  python3.7
+   74  python3.7.3
+   75  //usr/local/bin/python --version
+   76  /usr/local/bin/python --version
+   77  /usr/local/bin/python -m pip --version
+   78  which python3
+   79  export PATH="$PATH:/bin/python3"
+   80  which python3
+   81  /bin/python3 -m pip --version
+   82  /bin/python --version
+   83  python3.7 -V
+   84  python3.7 --version
+   85  cd
+   86  ls
+   87  cd /home/centos_server_2/
+   88  ls
+   89  mv Python-3.7.3 /bin/python3
+   90  ls /bin/python3
+   91  cd /bin/python3
+   92  cd /
+   93  ls /bin/python3
+   94  cd /bin
+   95  ls
+   96  mv /home/centos_server_2/Python-3.7.3 .
+   97  ls
+   98  grep Python-3.7.3/
+   99  cd Python-3.7.3/
+  100  python3.7 -V
+  101  python3.7 -v
+  102  ./configure --enable-optimizations
+  103  make altinstall
+  104  python3.7
+  105  python3
+  106  python 3.6 --version
+  107  python3.6 --version
+  108  python3.7 --version
+  109  python3.6 -m venv environments/gman36
+  110  ls environments/gman36/
+  111  ls environments/gman36/bin
+  112  pip list
+  113  source environments/gman36/bin/activate
+  114  python --version
+  115  pip list
+  116  pip install --upgrade pip
+  117  pip list
+  118  pip install flask
+  119  pip list
+  120  cd 
+  121  rmdir Python-3.7.3
+  122  pip show flask
+  123  deactivate
+  124  yum update
+  125  yum install gunzip 
+  126  yum search guzip 
+  127  yum search gunzip 
+  128  shutdown now
+  129  history
+  130  Setting Up a Workspacce with pip and virtualenv
+  131  pwd
+  132  cd /home/centos_server_2/
+  133  pwd
+  134  python --version
+  135  python3 --version
+  136  python3.6 -m venv environments/gman36
+  137  ls environments/gman36/
+  138  ls environments/gman36/bin/
+  139  source environments/gman36/activate
+  140  source environments/gman36/bin/activate
+  141  python --version
+  142  pip list
+  143  pip install --upgrade pip
+  144  cara perbaiki koneksi internet
+  145  vim /etc/resolv.conf 
+  146  pip install --upgrade pip
+  147  ping 8.8.8.8
+  148  ip a s
+  149  dhclient
+  150  pip install --upgrade pip
+  151  ping google.com
+  152  exit
+  153  ip a s
+  154  sudo dhclient
+  155  sudo vim /etc/rc.d/rc.local 
+  156  sudo chmod +x /etc/rc.d/rc.local 
+  157  ip a s
+  158  ifconfig
+  159  cara aktifkan internet
+  160  nmtui
+  161  systemctl restart network
+  162  systemctl status network.service 
+  163  systemctl status network.service -l
+  164  nmcli con show
+  165  nmcli con up enp0s8
+  166  nmcli con up enp0s3
+  167  cat /etc/sysconfig/network-scripts/ifcfg-enp0s3
+  168  ifconfig
+  169  cat /etc/sysconfig/network-scripts/ifcfg-ens33
+  170  cat /etc/sysconfig/network-scripts/
+  171  cat /etc/sysconfig/network-scripts/ifcfg-enp0s3
+  172  cat /etc/sysconfig/network-scripts/ifcfg-enp0s8
+  173  sudo vi /etc/default/grub 
+  174  grub2-mkconfig -o /boot/grub2/grub.cfg 
+  175  ping 8.8.8.8
+  176  ifconfig
+  177  dhclient
+  178  /sbin/ip link set nes33 down
+  179  /sbin/ip link set ens33 down
+  180  /sbin/ip link set ens34 down
+  181  cat /etc/default/grub 
+  182  cat /etc/sysconfig/network-scripts/ifcfg-enp0s3
+  183  cat /etc/sysconfig/network-scripts/ifcfg-enp0s8
+  184  /sbin/ip link set ens33 name enp0s3
+  185  /sbin/ip link set enp0s3 up
+  186  /sbin/ip link set ens34 name enp0s8
+  187  /sbin/ip link set enp0s8 up
+  188  ifconfig
+  189  ip a s
+  190  dhclient
+  191  ifconfig
+  192  ip a s
+  193  reboot
+  194  ifconfig
+  195  /sbin/ip link set et0 down
+  196  /sbin/ip link set eth0 down
+  197  /sbin/ip link set eth1 down
+  198  /sbin/ip link set eth0 name enp0s3
+  199  /sbin/ip link set eth1 name enp0s8
+  200  /sbin/ip link set eth0 up
+  201  /sbin/ip link set enp0s3 up
+  202  /sbin/ip link set enp0s8 up
+  203  ifconfig
+  204  ip a s
+  205  dhclient
+  206  ip a s
+  207  reboot
+  208  ip a s
+  209  vim /etc/sysconfig/network-scripts/ifcfg-enp0s3
+  210  ls /etc/sysconfig/network-scripts/
+  211  vim /etc/sysconfig/network-scripts/ifcfg-enp0s3
+  212  cp /etc/sysconfig/network-scripts/ifcfg-enp0s3 /etc/sysconfig/network-scripts/ifcfg-eth0
+  213  ls /etc/sysconfig/network-scripts/
+  214  vim /etc/sysconfig/network-scripts/ifcfg-eth0
+  215  cp /etc/sysconfig/network-scripts/ifcfg-enp0s8 /etc/sysconfig/network-scripts/ifcfg-eth1
+  216  ls /etc/sysconfig/network-scripts/
+  217  vim /etc/sysconfig/network-scripts/ifcfg-eth1
+  218  system restart httpd.service
+  219  systemctl restart httpd.service
+  220  nmcli d
+  221  ip link set dev eth0 up
+  222  dhclient -v eth0
+  223  ip link set dev eth1 up
+  224  dhclient -v eth1
+  225  ifconfig
+  226  nmtui
+  227  shutdown
+  228  pwd
+  229  python --verion
+  230  python --version
+  231  python3.6 --version
+  232  python3.6 -m venv environments/gman36
+  233  ls environments/gman36/
+  234  ls environments/gman36/bin
+  235  sourc environments/gman36/bin/activate
+  236  source environments/gman36/bin/activate
+  237  pip list
+  238  pip install --upgrade pip
+  239  pip install flask
+  240  ip a s
+  241  pip list
+  242  pip show flask
+  243  deactivate
+  244  selesai
+  245  systemctl stop network
+  246  systemctl disable network
+  247  systemctl status network
+  248  systemctl enable Network Manager
+  249  systemctl enable NetworkManager
+  250  systemctl start NetworkManager
+  251  systemctl status network
+  252  systemctl status NetworkManager
+  253  ip a s
+  254  ip addr
+  255  dhcp
+  256  dhcpdhclient
+  257  dhclient
+  258  ip addr
+  259  systemctl restart network
+  260  systemctl status network.service
+  261  ip addr
+  262  ip addr
+  263  ls /etc/sysconfig/network
+  264  ls /etc/sysconfig/network-scripts/ifcfg-eth0
+  265  vim /etc/sysconfig/network-scripts/ifcfg-eth0
+  266  vim /etc/sysconfig/network-scripts/ifcfg-eth1
+  267  systemctl stop NetworkManager
+  268  systemctl disable NetworkManager
+  269  service network restart
+  270  eth0
+  271  systemctl restart network
+  272  vim /etc/sysconfig/network-scripts/ifcfg-eth0
+  273  vim /etc/sysconfig/network-scripts/ifcfg-eth1
+  274  systemctl stop NetworkManager
+  275  systemctl disable NetworkManager
+  276  systemctl restart network
+  277  systemctl status network.service -l
+  278  reboot
+  279  systemctl restart network.service
+  280  nmtui
+  281  systemctl enable NetworkManager
+  282  systemctl start NetworkManager
+  283  nmtui
+  284  systemctl restart network.service
+  285  dhclient
+  286  ifconfig a
+  287  ifconfig -a
+  288  ip addr
+  289  ip a s
+  290  python3.6 -m venv environments/gman36
+  291  ls environments/gman36/
+  292  source environments/gman36/bin/activate
+  293  pip list
+  294  pip show flask
+  295  pip install --upgrade pip
+  296  nmtui
+  297  nmcli
+  298  nmcli device show
+  299  nmcli connection show
+  300  vim /etc/sysconfig/network-scripts/ifcfg-eth0
+  301  vim /etc/sysconfig/network-scripts/ifcfg-eth1
+  302  vim /etc/sysconfig/network-scripts/ifcfg-eth0
+  303  systemctl restart network.service
+  304  systemctl restart network.service -l
+  305  systemctl restart network.service
+  306  service restart network
+  307  service start network
+  308  exit
+  309  ip addr
+  310  shutdown
+  311  vim /etc/sysconfig/network-scripts/ifcfg-eth0
+  312  vim /etc/sysconfig/network-scripts/ifcfg-eth1
+  313  service network restart
+  314  systemctl enable NetworkManager
+  315  systemctl start NetworkManager
+  316  dhclient
+  317  ip a s
+  318  ifconfig
+  319  systemctl restart network.service
+  320  systemctl status network.service -l
+  321  cat /etc/sysconfig/network-scripts/ifcfg-eth0
+  322  cat /etc/sysconfig/network-scripts/ifcfg-eth1
+  323  cat /etc/sysconfig/network
+  324  journalctl -xe
+  325  systemctl restart network.service
+  326  ps ax | grep ifcfg-eth0 
+  327  ps ax | grep ifcfg-eth1
+  328  iwconfig
+  329  ifconfig
+  330  cat /var/run/systemd/generator.late/network.service 
+  331  grep -rs ifup/etc
+  332  bash -x
+  333  echo Bump
+  334  service restart network
+  335  systemctl restart network.service
+  336  systemctl status network.service
+  337  dhclient
+  338  ip addr
+  339  ifconfig
+  340  ip a s
+  341  vim /etc/sysconfig/network-scripts/ifcfg-eth0
+  342  vim /etc/sysconfig/network-scripts/ifcfg-eth1
+  343  systemctl restart network
+  344  systemctl stop network
+  345  systemctl disable network
+  346  systemctl mask network
+  347  systemctl restart NetworkManager
+  348  dhclient
+  349  ifconfig
+  350  ip a s
+  351  systemctl restart network
+  352  vim /sys/class/net/eth0/address
+  353  sudo vim /sys/class/net/eth0/address
+  354  sudo chmod+x /sys/class/net/eth0/address
+  355  sudo chmod 0777 /sys/class/net/eth0/address
+  356  sudo vim /sys/class/net/eth0/address
+  357  sudo chgrp 0777 /sys/class/net/eth0/address
+  358  sudo vim /sys/class/net/eth0/address
+  359  vim /etc/sysconfig/grub 
+  360  grub2-mkconfig -o /boot/grub/grub.c
+  361  grub2-mkconfig -o /boot/grub/grub.cfg
+  362  systemctl stop NetworkManager
+  363  systemctl disable NetworkManager
+  364  systemctl restart network.service
+  365  systemctl unmask NetworkManager
+  366  systemctl restart network.service
+  367  systemctl umask NetworkManager
+  368  systemctl enable NetworkManager
+  369  systemctl start NetworkManager
+  370  dhclient
+  371  ip a s
+  372  nmtui
+  373  vim /etc/sysconfig/network-scripts/ifcfg-eth0
+  374  vim /etc/sysconfig/network-scripts/ifcfg-eth0-1
+  375  rm /etc/sysconfig/network-scripts/ifcfg-eth0-1
+  376  ls /etc/sysconfig/network-scripts/
+  377  vim /etc/sysconfig/network-scripts/ifcfg-eth1
+  378  systemctl restart network.service
+  379  vim /etc/sysconfig/network-scripts/ifcfg-eth0
+  380  vim /etc/sysconfig/network-scripts/ifcfg-eth1
+  381  systemctl restart network
+  382  systemctl unmask network
+  383  systemctl restart network
+  384  systemctl status network-service
+  385  shutdown
+  386  ip a s
+  387  ls /
+  388  ls /data/
+  389  vim /etc/fstab 
+  390  umount /data
+  391  man mount
+  392  mount -a
+  393  umount /dev/sdb1
+  394  mount -a
+  395  umount /data
+  396  mount -a
+  397  debugfs
+  398  mount -o remount /data
+  399  mount -a
+  400  umount /data
+  401  mount -a
+  402  mount -o remount /data
+  403  mount -a
+  404  vim /dev/fdisk
+  405  vim /etc/fdisk
+  406  vim /etc/fstab 
+  407  umount /data
+  408  mount -a
+  409  mount | grep /data/
+  410  mount | grep data
+  411  shutdown now
+  412  vim /dev/fdisk
+  413  vim /etc/fdisk
+  414  lsblk
+  415  blkid
+  416  vim /etc/fstab
+  417  reboot
+  418  vim /etc/fstab
+  419  systemctl reboot
+  420  smartctl -i /dev/sda
+  421  exit
+  422  journalctl -xb
+  423  history
+  424  Using smartmontools to Monitor your Physical Disk
+  425  yum install -y smartmontools
+  426  yum clean all
+  427  yum install -y smartmontools
+  428  smartctl -i /dev/sdb
+  429  ssh andrew@rhlabs.theurbanpengin.com
+  430  sudo -i
+  431  exit
+  432  vim /etc/smartmontools/smartd
+  433  vim /etc/smartmontools/smartd.conf 
+  434  tidak ada yg diedit
+  435  selesai
+  436  shutdown now
+  437  Creating XFS File SYstem
+  438  umount /data
+  439  xfs
+  440  mkfs.xfs /dev/sdb1
+  441  mkfs.xfs -f /dev/sdb1
+  442  mount /dev/sdb1 /data
+  443  xfs_info /dev/sdb1
+  444  vim /etc/fstab
+  445  umount /data
+  446  mkfs.xfs /dev/sdb1
+  447  mkfs.xfs -f /dev/sdb1
+  448  mount /dev/sdb1 /data
+  449  xfs_info /dev/sdb1
+  450  mount -
+  451  mount -a
+  452  xfs_info /dev/sdb1
+  453  vim /etc/fstab
+  454  Creating XFS File SYstem
+  455  umount /data
+  456  mkfs.xfs -f /dev/sdb1
+  457  mount /dev/sdb1 /data
+  458  xfs_info /dev/sdb1
+  459  blkid /dev/sdb1
+  460  umount /dev/sdb1
+  461  mount -a
+  462  lsblk /dev/sdb1
+  463  lsblk
+  464  blkid
+  465  vim /etc/fstab
+  466  umount /dev/sdb1
+  467  umount /data
+  468  mkfs.xfs -f /dev/sdb1
+  469  mount /dev/sdb1 /data
+  470  xfs_info /dev/sdb1
+  471  xfs_info -V
+  472  fcsk /dev/sdb1
+  473  fsck /dev/sdb1
+  474  xfs_repair
+  475  xfs_repair /dev/sdb1
+  476  fsck /dev/sdb1
+  477  umount /data
+  478  mkfs.xfs -f /dev/sdb1
+  479  mount /dev/sdb1 /data
+  480  xfs_info /dev/sdb1
+  481  vim /etc/fstab
+  482  Creating XFS File SYstem
+  483  umount /data
+  484  mkfs.xfs -f /dev/sdb1
+  485  mount /dev/sdb1 /data
+  486  xfs_info /dev/sdb1
+  487  fsck /dev/sdb1
+  488  vim /etc/fstab
+  489  umount /data
+  490  umount /dev/sdb1
+  491  Creating XFS File SYstem
+  492  mkfs.xfs -f /dev/sdb1
+  493  mount /dev/sdb1 /data
+  494  xfs_info /dev/sdb1
+  495  fsck /dev/sdb1
+  496  fsck /dev/sdb1 /data
+  497  ls -l /dev/disk/by-uuid/
+  498  ganti uuid sdb1
+  499  vim ip a s
+  500  ifconfig eth0 ip
+  501  ifconfig eth0 up
+  502  ifconfig eth1 up
+  503  dhclient
+  504  ip a s
+  505  ifconfig eth0 up
+  506  ifconfig
+  507  ifconfig eth1 up
+  508  ifconfig
+  509  dhclient
+  510  ip a s
+  511  reboot
+  512  ifconfig
+  513  ssh izmi@192.168.98.130
+  514  ssh izmi@192.168.174.130
+  515  ssh -p 22 izmi@192.168.98.130
+  516  ping google.com -c5
+  517  ping detik.com -c3
+  518  yum install git
+  519  shutdown now
+  520  Creating XFS File System
+  521  umount /data
+  522  mkfs.xfs /de/sdb1
+  523  mkfs.xfs /dev/sdb1
+  524  mkfs.xfs -f /dev/sdb1
+  525  mount /dev/sdb1 /data
+  526  xfs_info /dev/sdb1
+  527  xfs_info /data
+  528  Akhirnya hasil dari command xfs_info /data dan xfs_info /dev/sdb1 hasilnya sama
+  529  selesai
+  530  shutdown now
+  531  Using XFS Repair
+  532  xfs_repair -n /dev/sdb1
+  533  xfs_repair 
+  534  xfs_repair -l logdev /dev/sdb1
+  535  xfs_repair -t interval /dev/sdb1
+  536  xfs_repair -t /dev/sdb1
+  537  selesai
+  538  Backup and Restore with xfsdump and xfsrestore
+  539  Cara Backup XFS File System
+  540  xfsdump -l 0 -f /var/backup /boot
+  541  error karena /var/backup (No space left on device)
+  542  ls -l /var/backup
+  543  fdisk -l /var/backup
+  544  xfsdump -l 0 -f /var/backup /boot
+  545  file
+  546  xfsdump -l 0 -f /var/backup /boot
+  547  setelah ketik perintah xfsdump -l 0 -f /var/backup /boot, ketik full, lalu ketik file
+  548  ls -l /var/backup
+  549  akhirnya ada file backkup dalam direktori /var/backup
+  550  xfsrestore -I
+  551  untuk restore dari file backup
+  552  cara cek konten backup
+  553  xfsrestore -t -f /var/bakup
+  554  xfsrestore -t -f /var/backup
+  555  xfsrestore -f /var/backup -L full /data
+  556  ls /data
+  557  selesai
+  558  shutdown now
+  559  Creating a Simple File System Volume
+  560  btrfs --version
+  561  mkfs.btrfs /dev/sdc
+  562  lsblk
+  563  btrfsck /dev/sdc
+  564  mount /dev/sdc /data
+  565  umount /dev/sdc /data
+  566  mount /dev/sdc /data-btrfs/
+  567  mkdir /data-btrfs/
+  568  karena no splace left on devic, cara troubleshoot:
+  569  df -h
+  570  df -h /
+  571  ls /dev/mapper/centos-root
+  572  cd /dev/mapper/centos-root
+  573  vim /dev/mapper/centos-root
+  574  df -h /
+  575  yum clean all
+  576  coba ulang lagi
+  577  mkdir /data-btrfs/
+  578  mount /dev/sdc /data-btrfs/
+  579  karena no splace left on devic, cara troubleshoot:
+  580  df
+  581  df -i
+  582  coba free inodes ddengan delete file unwanted
+  583  $for i in /*; do echo $i
+  584  $for i in /*; do echo $i;
+  585  for i in /*; do echo $i; find $i | wc -l; done
+  586  ls /var
+  587  ls /var/empty
+  588  ls /var/emptysshd
+  589  ls /var/empty/sshd
+  590  ls /var/named
+  591  ls /var/cache
+  592  ls /sys
+  593  ls /sys/hypervisor
+  594  dari hasil search direktori yg memiliki file terbanyak adalah /sys
+  595  coba deleted junk file dalam direktori /sys
+  596  $for i in /sys; do echo $i
+  597  $for i in /sys; do echo $i;
+  598  for i in /sys; do echo $i; find $i | wc -l; done
+  599  for i in /home; do echo $i; find $i | wc -l; done
+  600  coba deleted junk file dalam direktori /home
+  601  ls /
+  602  ls /home
+  603  ls /home/centos_server_2
+  604  rm -rf /home/centos_server_2/Python-3.7.3.tgz
+  605  ls /home/centos_server_2
+  606  ls /home/centos_server_2/environments
+  607  rm -rf /home/centos_server_2/environments
+  608  ls /home/centos_server_2
+  609  rm -rf /home/centos_server_2/globomantics
+  610  ls /home/centos_server_2
+  611  coba ulang lagi
+  612  mkfs.btrfs /dev/sdc
+  613  mkfs.btrfs -f /dev/sdc
+  614  mount /dev/sdc /data
+  615  mount /dev/sdc /data-btrfs/
+  616  mkdir /data-btrfs/
+  617  mount /dev/sdc /data-btrfs/
+  618  akhirnya data dari /dev/sdc berhasil domount ke /data-btrfs
+  619  df -i
+  620  btrfs fi show -m
+  621  command ini menunjukkan all mounted devices
+  622  btrfs fi show /dev/sdc
+  623  mdadm --version
+  624  hdparm --version
+  625  ping google.com
+  626  yum search hdparm
+  627  yum install -y hdparm.x86_64
+  628  hdparm --version
+  629  ls /rproc/vmstat
+  630  ls /proc/vmstat
+  631  cd /proc/vmstat
+  632  cat /proc/vmstat
+  633  yum install targetd targetcli
+  634  targetd --version
+  635  targetcli
+  636  netstat -ltn
+  637  route google.com
+  638  route -v google.com
+  639  iscsi --version
+  640  yum search iscsi
+  641  yum install -y iscsi
+  642  yum install -y iscsi-initiator-utils.x86_64 libiscsi.x86_64 libvirt-daemon-driver-storage-iscsi.x86_64 netbsd-iscsi.x86_64 storaged-iscsi.x86_64 udisks2-iscsi.x86_64
+  643  iscsi --version
+  644  iscsiadm --version
+  645  pvcreate /dev/sdb1
+  646  vgs
+  647  yum update upgrade
+  648  yum update
+  649  for i in /filesystem; do echo $i; find $i | wc -l; done
+  650  for i in /; do echo $i; find $i | wc -l; done
+  651  for i in /*; do echo $i; find $i | wc -l; done
+  652  for i in /usr/; do echo $i; find $i | wc -l; done
+  653  for i in /usr/*; do echo $i; find $i | wc -l; done
+  654  for i in /usr/share/*; do echo $i; find $i | wc -l; done
+  655  for i in /usr/share/lib/*; do echo $i; find $i | wc -l; done
+  656  for i in /usr/share/; do echo $i; find $i | wc -l; done
+  657  for i in /usr/share/*; do echo $i; find $i | wc -l; done
+  658  rm -rf /usr/share/wallpapers
+  659  ls /usr/share/
+  660  rm -rf /usr/share/java-1.3.0
+  661  ls /usr/share/
+  662  rm -rf /usr/share/java-1.5.0
+  663  ls /usr/share/
+  664  rm -rf /usr/share/java-1.6.0
+  665  ls /usr/share/
+  666  rm -rf /usr/share/java-1.7.0
+  667  ls /usr/share/
+  668  rm -rf /usr/share/games
+  669  ls /usr/share/
+  670  ls /usr/share/gcc-4.8.5
+  671  rm -rf /usr/share/gcc-4.8.5
+  672  ls /usr/share/gcc-4.8.5
+  673  ls /usr/share/
+  674  rm -rf /usr/share/themes
+  675  ls /usr/share/
+  676  rm -rf /usr/share/mozilla
+  677  ls /usr/share/
+  678  yum update
+  679  for i in /*; do echo $i; find $i | wc -l; done
+  680  for i in /etc/*; do echo $i; find $i | wc -l; done
+  681  yum update
+  682  vim /etc/yum.conf
+  683  yum update
+  684  df -h
+  685  for i in /dev/mapper/centos-root/*; do echo $i; find $i | wc -l; done
+  686  for i in /dev/mapper/centos-root/; do echo $i; find $i | wc -l; done
+  687  for i in /dev/mapper/*; do echo $i; find $i | wc -l; done
+  688  ls -l /dev/mapper/centos-root/
+  689  cat /dev/mapper/centos-root/
+  690  ls /boot
+  691  ls /dev/mapper/centos-root/
+  692  rm -rf /boot/initramfs-3.10.0-1062.el7.x86_64.img 
+  693  rm -rf /boot/symvers-3.10.0-1062.el7.x86_64.gz 
+  694  rm -rf /boot/System.map-3.10.0-1062.el7.x86_64 
+  695  rm -rf /boot/vmlinuz-3.10.0-1062.el7.x86_64 
+  696  ls /boot/
+  697  df -h
+  698  coba bersihin direktori /dev/mapper/centos-root yg dimount ke /
+  699  du -x / | sort -nr | head 20
+  700  du -x / | sort -nr
+  701  lvs
+  702  growpart /
+  703  ping google.com
+  704  reboot
+  705  ping google.com
+  706  df -h
+  707  yum install cloud-utils-growpart
+  708  yum load-transaction /tmp/yum_save_tx.2020-09-11.14-19.2eg11n.yumtx 
+  709  growpart /
+  710  df -h
+  711  growpart /dev/mapper/centos-root
+  712  growpart /dev/mapper/centos-root 1
+  713  growpart / 1
+  714  df -h
+  715  mount / /dev/sdd1
+  716  mount / /dev/sdd
+  717  mount -a
+  718  lsblk
+  719  mount / /dev/sdc
+  720  fdisk /dev/sdc
+  721  lsblk
+  722  ls /dev/sdc
+  723  mount / /dev/sdc/sdc4
+  724  mount / /dev/sdc/
+  725  ln -s /dev/mapper/centos-root /dev/sdc/sdc4
+  726  ln -s /dev/mapper/centos-root /dev/sdc
+  727  ln -s /dev/mapper/centos-root /dev/sdc/centos-root
+  728  mkdir /dev/sdc/centos-root
+  729  vim /etc/fstab 
+  730  mkdir /dev/sdc/centos-root
+  731  ln -s /dev/mapper/centos-root /dev/sdc/centos-root
+  732  ln -s /dev/mapper/centos-root /dev/sdc/
+  733  vim /etc/fstab 
+  734  df / -h
+  735  ls /
+  736  ls /gfs
+  737  rm -rf /devnet
+  738  ls /
+  739  df / -h
+  740  df /boot -h
+  741  df /bin -h
+  742  ls /bin
+  743  ls /bin/IBMgtSim
+  744  df /bin/IBMgtSim -h
+  745  rm -rf /bin/I
+  746  df /bin -h
+  747  ls -alh /bin
+  748  ls -alh /usr
+  749  ls -alh /usr/bin
+  750  df /usr/bin -h
+  751  uname -a
+  752  yum clean metadata
+  753  df /usr/bin -h
+  754  yum clean all
+  755  df /usr/bin -h
+  756  yum update
+  757  yum load-transaction /tmp/yum_save_tx.2020-09-11.15-43.LISb71.yumtx 
+  758  Understanding COW
+  759  CoW=Copy on Write TEchnology
+  760  Disabling CoW
+  761  mkdir /data-btrfs/nowcow
+  762  chattr +C /data-btrfs/nowcow
+  763  chattr +C -f /data-btrfs/nowcow
+  764  lsattr -d /data-btrfs/nowcow
+  765  chattr +C /data-btrfs/nowcow
+  766  cara ubah filesistem direktori /data-btrfs/nowcow dari xfs menjadi ext4
+  767  fstransform /data-btrfs/nowcow ext4
+  768  fstransform /data-btrfs ext4
+  769  fdisk /data-btrfs
+  770  fstransform /data-btrfs/nowcow ext4
+  771  chattr +C /data-btrfs/nowcow
+  772  ls -l /data-btrfs/nowcow
+  773  ls -a /data-btrfs/nowcow
+  774  lsattr
+  775  lsattr /data-btrfs/nowcow
+  776  lsattr -a /data-btrfs/nowcow
+  777  rmdir /data-btrfs/nowcow
+  778  ls /data-btrfs/
+  779  mkdir -p /data-btrfs/nowcow
+  780  lsattr /data-btrfs/nowcow
+  781  chattr +C /data-btrfs/nowcow/
+  782  chattr +C /data-btrfs/nowcow
+  783  chattr +C* /data-btrfs/nowcow
+  784  chattr +C * /data-btrfs/nowcow
+  785  chattr +d * /data-btrfs/nowcow
+  786  lsattr /data-btrfs/nowcow
+  787  chattr +a /data-btrfs/nowcow
+  788  lsattr /data-btrfs/nowcow
+  789  lsattr
+  790  chattr +D /data-btrfs/nowcow
+  791  chattr -R -i /data-btrfs/nowcow/
+  792  chattr +C /data-btrfs/nowcow
+  793  chattr -V /data-btrfs/nowcow/
+  794  chattr -v /data-btrfs/nowcow/
+  795  lsattr /data-btrfs/nowcow/
+  796  mkdir /data-btrfs2
+  797  mkdir /data-btrfs2/nowcow
+  798  ls /data-btrfs2/
+  799  chattr +C /data-btrfs2/nowcow
+  800  Buang dulu flag dari direktori /data-btrfs/nowcow
+  801  ls -lhs /data-btrfs/nowcow/
+  802  ls -lha /data-btrfs/nowcow/
+  803  chmod g+S /data-btrfs/nowcow/
+  804  chmod g+s /data-btrfs/nowcow/
+  805  chmod g-s /data-btrfs/nowcow/
+  806  sudo chmod g+s /data-btrfs/nowcow/
+  807  umask /data-btrfs/nowcow/
+  808  umask /data-btrfs/nowcow
+  809  umask data-btrfs/nowcow
+  810  umask 002 /data-btrfs/nowcow/
+  811  chattr +C /data-btrfs/nowcow
+  812  chmod 0775 /data-btrfs/nowcow
+  813  chown /root /data-btrfs/nowcow/
+  814  chown / /data-btrfs/nowcow/
+  815  chown  /data-btrfs/nowcow/
+  816  chown root  /data-btrfs/nowcow/
+  817  chown root /data-btrfs/nowcow/
+  818  chmod -R 644 /data-btrfs/nowcow/
+  819  lsattr
+  820  lsattr i
+  821  lsattr i /
+  822  lsattr
+  823  chattr
+  824  ip a s
+  825  shutdown now
+  826  Understanding CoW
+  827  CoW = Copy on Writ
+  828  CoW = Copy on Write
+  829  mkdir /data-btrfs/nowcow
+  830  chattr +C /data-btrfs/nowcow
+  831  lsattr -d /data-btrfs/nowcow
+  832  chattr -ad /data-btrfs/nowcow
+  833  lsattr -d /data-btrfs/nowcow
+  834  chattr +C /data-btrfs/nowcow
+  835  lsattr -d /data-btrfs/nowcow
+  836  touch /data-btrfs/nowcow/file1
+  837  lsattr /data-btrfs/nowcow/file1
+  838  selesai
+  839  Creating Multi-disk Volumes
+  840  Demo:Understanding Disk Usage in a btfrs Multi-disk Volume
+  841  btrfs fi show /dev/sdc
+  842  btrfs device add /dev/sdd /data-btrfs/
+  843  btrfs device add /dev/sdd /data-btrfs
+  844  btrfs device add-f  /dev/sdd /data-btrfs
+  845  btrfs device add -f /dev/sdd /data-btrfs
+  846  btrfs device add /dev/sdd/ /data-btrfs/
+  847  df -hT /data-btrfs
+  848  df -hT /data-btrfs/
+  849  btrfs fi show /dev/sdc
+  850  btrfs balance start -d -m /data-btrfs/
+  851  btrfs fi show /dev/sdc
+  852  btrfs filesystem df /data-btrfs/
+  853  selesai
+  854  yum install git
+  855  mkdir upload_git
+  856  cd upload_git/
+  857  git init
+  858  git remote add origin https://github.com/izmilia-prastika/Daftar-Perintah_CentOS7.git
+  859  git -v
+  860  git rmote -v
+  861  git ermote -v
+  862  git remote -v
+  863  history > history.txt
